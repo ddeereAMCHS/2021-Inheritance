@@ -11,7 +11,7 @@
 
 ### Labrador.java
 - Create a class called `Labrador.java` that is a subclass of the Dog class
-- Give the Rottweiler class the following data fields/members
+- Give the Labrador class the following data fields/members
   - Color (black, yellow, or chocolate)
 - Create a default and parameterized constructors
 - Create getter and setter methods
