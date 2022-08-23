@@ -1,5 +1,7 @@
 # Inheritance
 
+## Due: DoW MM/DD at 11:59 PM
+
 ### Dog.java
 - Create a class called `Dog.java`
 - Give the Dog class the following data fields/members
