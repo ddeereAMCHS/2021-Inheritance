@@ -1,6 +1,6 @@
 # Inheritance
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Tue 9/26 at 11:59 PM
 
 ### Dog.java
 - Create a class called `Dog.java`
